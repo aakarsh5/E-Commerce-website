@@ -21,7 +21,7 @@ In addition to our user-friendly navigation and extensive parts selection, we of
 
 - **Wishlist**: Save your favorite parts to a wishlist for easy access and comparison.
 - **Product Reviews**: Read reviews from other customers to make informed purchasing decisions.
-- **Fast Shipping**: Enjoy fast and reliable shipping to get your parts delivered straight to your door.
+- **Add TO Cart**: Enjoy adding multiple parts for easy purchase.
 
 ## How to Contribute
 
